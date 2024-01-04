@@ -1,8 +1,8 @@
-# Spadasoft Software Engineering Technical Assessment
+# Coding Challenge
 
 ## Overview
 
-This is a Spadasoft technical assessment for potential JavaScript and Python Software Engineers.
+This is a coding challenge for potential JavaScript and Python Software Engineers.
 
 The purpose of this exercise is to assess your:
 
